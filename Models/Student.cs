@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using StudentCouncil.Api.Models;
+using StudentCouncil.Data.Models;
 
 [Table("Students")]
 public class Student

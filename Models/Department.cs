@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StudentCouncil.Api.Models
+namespace StudentCouncil.Data.Models
 {
 [Table("Departments")]
     public class Department
